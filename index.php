@@ -3,8 +3,8 @@
 <head>
     <title>CB-2630</title>
     <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles/style.css">
-    <!--<link rel="icon" href="../images/logo.png" type="image/png" sizes="20x20" style="border-radius:50px;">-->
+    <link rel="stylesheet" href="style.css">
+    <!--<link rel="icon" href="logo.png" type="image/png" sizes="20x20" style="border-radius:50px;">-->
 </head>
 <body>
 <div id="cont-main">
